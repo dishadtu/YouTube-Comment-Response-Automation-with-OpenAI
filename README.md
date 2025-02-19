@@ -34,7 +34,7 @@ This project automates YouTube comment moderation using OpenAI’s GPT-3. It fet
   DB_USER=your-db-user
   DB_PASSWORD=your-db-password
   DB_NAME=your-db-name
-
+```
 4.  Run the application:
 
   ```bash
